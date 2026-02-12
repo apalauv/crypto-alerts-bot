@@ -12,7 +12,7 @@ ALERTAS = {
     "BTC": {
         "symbol": "BTCUSDT",
         "niveles": {
-            "P1": {"precio": 70000, "descripcion": "Menos Agresiva", "activada": True},
+                        "P1": {"precio": 200000, "descripcion": "Menos Agresiva", "activada": True},
             "P2": {"precio": 65000, "descripcion": "", "activada": True},
             "P3": {"precio": 60000, "descripcion": "", "activada": True},
             "P4": {"precio": 55000, "descripcion": "", "activada": True},
